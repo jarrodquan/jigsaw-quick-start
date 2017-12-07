@@ -2,5 +2,5 @@
 Java9 module system
 
 ### References
-http://openjdk.java.net/projects/jigsaw/quick-start
-https://guides.gradle.org/building-java-9-modules/
+[Jigsaw - Quick start](http://openjdk.java.net/projects/jigsaw/quick-start) 
+[Gradle - Building java9 modules](https://guides.gradle.org/building-java-9-modules/)
